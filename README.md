@@ -1,4 +1,4 @@
-parent
+Maven OSS Parent
 ======
 
-Maven Parent POM for com.stevemosley Projects
+Maven Parent POM for Open Source com.stevemosley Projects.
